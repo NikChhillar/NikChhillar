@@ -7,7 +7,6 @@ A 3rd year CSE student.<br>I'm currently learning web dev.<br>Flutter dev.<br>An
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikChhillar&theme=radical&hide_border=true)<br/>
-username=NikChhillar&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
