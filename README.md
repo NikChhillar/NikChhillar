@@ -1,13 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikchhillar&label=Profile%20views&color=0e75b6&style=flat" alt="nikchhillar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikchhillar" alt="nikchhillar" /></a> </p>
-
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">A 3rd year CSE student</h3>
 
 # 💫 About Me:
-A 3rd year CSE student.<br>
-
 - 🌱 I’m currently learning **Full stack web dev**
-
 - 💬 Ask me about **Flutter, Android dev using Kotlin**
 
 # 💻 Tech Stack:
@@ -16,25 +11,17 @@ A 3rd year CSE student.<br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikChhillar&theme=radical&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A 3rd year CSE student</h3>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikchhillar&show_icons=true&locale=en&layout=compact" alt="nikchhillar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikchhillar&show_icons=true&locale=en" alt="nikchhillar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikchhillar&" alt="nikchhillar" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikchhillar&label=Profile%20views&color=0e75b6&style=flat" alt="nikchhillar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikchhillar" alt="nikchhillar" /></a> </p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
