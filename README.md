@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikhil
 ==============================================================================================================================
 
-A 3rd year CSE Student
+A 3rd year CSE Student 
+Flutter developer || MERN developer 
 ----------------------
 
-A random guy trying to conquer the world using the weapons of technologies. Already mastered the art of android development using kotlin as well as Cross platform dev using Flutter. Nowadays exploring the fields of web dev.
+A random guy trying to conquer the world using the weapons of technologies. Already mastered the art of android development using kotlin as well as Cross platform dev using Flutter. Nowadays exploring the fields of full stack web dev.
 
 * 🌍  I'm based in Jhajjar,Haryana,India
 * ✉️  You can contact me at [nikhilchhillar29@gmail.com](mailto:nikhilchhillar29@gmail.com)
