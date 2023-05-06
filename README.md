@@ -5,7 +5,7 @@ A 3rd year CSE Student ||
  MERN developer 
 ----------------------
 
-A random guy trying to conquer the world using the weapons of technologies. Already mastered the art of android development using kotlin as well as Cross platform dev using Flutter. Nowadays exploring the fields of full stack web dev.
+A random guy trying to conquer the world using the weapons of technologies. Already mastered the art of android development using kotlin as well as Cross platform dev using Flutter. Nowadays exploring the fields of full stack web dev[MERN Stack]. I enjoy working on projects that challenge me to think creatively and push the boundaries of what's possible.
 
 * 🌍  I'm based in Jhajjar,Haryana,India
 * ✉️  You can contact me at [nikhilchhillar29@gmail.com](mailto:nikhilchhillar29@gmail.com)
