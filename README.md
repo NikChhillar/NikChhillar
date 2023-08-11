@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nextjs-latest-indol.vercel.app/](https://portfolio-nextjs-latest-indol.vercel.app/)
+- 👨‍💻 All of my projects are available at [Nikhil | Portfolio](https://portfolio-nextjs-latest-indol.vercel.app/)
 
 - 💬 Ask me about **react, nextjs, Mern stack**
 
