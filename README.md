@@ -33,6 +33,9 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NikChhillar&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
+## ⭐Holopin Badges
+[![An image of @nikchhillar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikchhillar)](https://holopin.io/@nikchhillar)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
