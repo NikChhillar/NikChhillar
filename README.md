@@ -36,7 +36,7 @@
 ## ⭐Holopin Badges
 [![An image of @nikchhillar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikchhillar)](https://holopin.io/@nikchhillar)
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
