@@ -23,7 +23,7 @@
 
 ## 💻Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,tailwind,js,ts,jquery,threejs,react,redux,next,vite,docker,vercel,netlify,aws,git,c,cpp,java,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,docker,git,github,vercel,netlify,aws,c,cpp,java,dart,flutter,prisma,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman,sass,bootstrap,materialui,jquery,redux,threejs,vite,appwrite,bash,codepen">
 
 
 # 📊GitHub Stats :
