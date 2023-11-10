@@ -26,6 +26,16 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NikChhillar&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
+<!-- 
+## ⚡ Top Repositories
+<a href="https://github.com/NikChhillar/notion-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikChhillar&repo=notion-clone&theme=calm" />
+</a>
+<a href="https://github.com/NikChhillar/AniHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikChhillar&repo=Anihub&theme=calm" />
+</a>
+-->
+
 ## ⭐Holopin Badges
 [![An image of @nikchhillar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikchhillar)](https://holopin.io/@nikchhillar)
 
