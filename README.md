@@ -6,7 +6,7 @@
 </div>
 
 # 💫About Me :
-- 🔭 I’m currently working on **Nextjs 13**
+- 🔭 I’m currently working on **Nextjs 14**
 - 🌱 I’m currently learning **Devops**
 - 👨‍💻 All of my projects are available at [Nikhil | Portfolio](https://portfolio-nextjs-latest-indol.vercel.app/)
 - 💬 Ask me about **react, nextjs, Mern stack**
