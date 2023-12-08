@@ -13,7 +13,7 @@
 - 📫 How to reach me **nikhilchhillar29@gmail.com**
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.nikhil__007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-chhillar2907) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikhilchhillar8) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil_29o2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-chhillar2907) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikhilchhillar8) 
 
 ## 💻Languages and Tools:
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,docker,git,github,vercel,netlify,aws,c,cpp,java,dart,flutter,prisma,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman,sass,bootstrap,materialui,jquery,redux,threejs,vite,appwrite,bash,codepen">
