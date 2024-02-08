@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate engineering student from India.</h3>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&width=700&lines=Hello!+;I'm+Nikhil.)](https://git.io/typing-svg)
+
+ <!--
+<h3 > A passionate engineering student from India.</h3>
 
 <div align="center"> 
 <img height="150" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 </div>
+-->
 
 # 💫About Me :
 - 🔭 I’m currently working on **Nextjs 14**
@@ -38,6 +41,11 @@
 
 ## ⭐Holopin Badges
 [![An image of @nikchhillar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikchhillar)](https://holopin.io/@nikchhillar)
+
+
+## 🗒️Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikChhillar&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
+
 
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
