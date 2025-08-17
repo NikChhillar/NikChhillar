@@ -1,55 +1,79 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&width=700&lines=Hello!+;I'm+Nikhil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1400&width=700&lines=Hi%2C+I'm+Nikhil)](https://portfolio-nextjs-latest-indol.vercel.app/)
 
- <!--
-<h3 > A passionate engineering student from India.</h3>
+## 🚀 About Me
+- 💻 Backend Developer at **Publicis Re:Sources** (Starscape – Poland region).  
+- 🛠️ Skilled in **SQL Server (SSMS)**, **.NET (C#)**, APIs, query optimization.  
+- 🌐 Experienced with **React / Next.js / AngularJS** for full-stack projects.  
+- 📚 Always learning & exploring **AI/ML with Python (Pandas, NumPy, Scikit-learn)**.  
+- 🌟 Building side projects with **Next.js 14, TypeScript, Prisma**.  
 
-<div align="center"> 
-<img height="150" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-</div>
--->
+🔗 **Portfolio:** [portfolio-nextjs-latest-indol.vercel.app](https://portfolio-nextjs-latest-indol.vercel.app)  
+📧 **Email:** nikhilchhillar29@gmail.com  
 
-# 💫About Me :
-- 🔭 I’m currently working on **Nextjs 14**
-- 🌱 I’m currently learning **Devops**
-- 👨‍💻 All of my projects are available at [Nikhil | Portfolio](https://portfolio-nextjs-latest-indol.vercel.app/)
-- 💬 Ask me about **react, nextjs, Mern stack**
-- 📫 How to reach me **nikhilchhillar29@gmail.com**
+---
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil_29o2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-chhillar2907) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikhilchhillar8) 
+## 🛠️ Tech Stack
 
-## 💻Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,docker,git,github,vercel,netlify,aws,c,cpp,java,dart,flutter,prisma,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman,sass,bootstrap,materialui,jquery,redux,threejs,vite,appwrite,bash,codepen">
+### 🔹 Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=swagger&logoColor=white&style=for-the-badge)
 
-# 📊GitHub Stats :
-![NikChhillar's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=NikChhillar&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
-![NikChhillar's github stats](https://github-readme-streak-stats.herokuapp.com/?user=NikChhillar&theme=calm&hide_border=false)
-![NikChhillar's most used languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=NikChhillar&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikChhillar&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+### 🔹 Database
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
-<!-- 
-## ⚡ Top Repositories
-<a href="https://github.com/NikChhillar/notion-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikChhillar&repo=notion-clone&theme=calm" />
-</a>
-<a href="https://github.com/NikChhillar/AniHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikChhillar&repo=Anihub&theme=calm" />
-</a>
--->
+### 🔹 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 
-## ⭐Holopin Badges
-[![An image of @nikchhillar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikchhillar)](https://holopin.io/@nikchhillar)
+---
 
+## 📂 Featured Projects
+✨ A few projects I’m proud of:  
 
-## 🗒️Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikChhillar&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
+- 🚀 **Swiftboard** – Modern Kanban board with drag & drop.
+- 📊 **Insightful** – Analytics dashboard for product metrics.  
+- 💬 **Discord Clone** – Realtime chat app with channel management.  
 
+---
 
-## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=NikChhillar&theme=calm&show_icons=true&hide_border=false&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikChhillar&theme=calm&hide_border=false" height="150" />
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=NikChhillar&theme=calm&hide_border=false&layout=compact" height="150" />
+</p>
+
+---
+
+## 🏆 Holopin Badges
+[![Holopin Profile](https://holopin.me/nikchhillar)](https://holopin.io/@nikchhillar)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nikhil-chhillar2907)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/NikhilChhillar8)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/nikhil_29o2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/NikChhillar)
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=96&section=footer" width="100%" height="96" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%"/>
 </p>
